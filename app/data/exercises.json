@@ -1,0 +1,726 @@
+[
+    {
+        "name": "Bodyweight Squat",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Push-up",
+        "muscle_group": "chest",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Plank",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "duration": "30 sec"
+    },
+    {
+        "name": "Jumping Jacks",
+        "muscle_group": "full_body",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "duration": "2 min"
+    },
+    {
+        "name": "Arm Circles",
+        "muscle_group": "shoulders",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 15
+    },
+    {
+        "name": "Dumbbell Chest Press",
+        "muscle_group": "chest",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Resistance Band Row",
+        "muscle_group": "back",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Goblet Squat",
+        "muscle_group": "legs",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Chest Stretch",
+        "muscle_group": "chest",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec each side"
+    },
+    {
+        "name": "Child's Pose",
+        "muscle_group": "back",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "1 min"
+    },
+    {
+        "name": "Dumbbell Shoulder Press",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Mountain Climbers",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "duration": "30 sec"
+    },
+    {
+        "name": "Glute Bridge",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Superman Hold",
+        "muscle_group": "back",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 2,
+        "duration": "30 sec"
+    },
+    {
+        "name": "Bent Over Row",
+        "muscle_group": "back",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Banded Lateral Walk",
+        "muscle_group": "legs",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Standing Calf Raise",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 20
+    },
+    {
+        "name": "Side Plank",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 2,
+        "duration": "30 sec each side"
+    },
+    {
+        "name": "Hamstring Stretch",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec"
+    },
+    {
+        "name": "High Knees",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "duration": "1 min"
+    },
+    {
+        "name": "Burpees",
+        "muscle_group": "full_body",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Lunges",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Step-ups",
+        "muscle_group": "legs",
+        "equipment": "bench",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Wall Sit",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 2,
+        "duration": "30 sec"
+    },
+    {
+        "name": "Resistance Band Chest Fly",
+        "muscle_group": "chest",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Towel Rows",
+        "muscle_group": "back",
+        "equipment": "towel",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Isometric Hold Push-up",
+        "muscle_group": "chest",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 2,
+        "duration": "20 sec"
+    },
+    {
+        "name": "Dead Bug",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Kneeling Shoulder Taps",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 20
+    },
+    {
+        "name": "Jump Squats",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Reverse Lunges",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Banded Glute Kickbacks",
+        "muscle_group": "legs",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Inchworm Walkouts",
+        "muscle_group": "full_body",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 10
+    },
+    {
+        "name": "Wall Angels",
+        "muscle_group": "shoulders",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 15
+    },
+    {
+        "name": "Triceps Dips",
+        "muscle_group": "arms",
+        "equipment": "bench",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Skaters",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 20
+    },
+    {
+        "name": "Jump Rope",
+        "muscle_group": "full_body",
+        "equipment": "jump_rope",
+        "type": "warmup",
+        "level": "beginner",
+        "duration": "2 min"
+    },
+    {
+        "name": "Seated Hamstring Stretch",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec"
+    },
+    {
+        "name": "Quad Stretch",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec"
+    },
+    {
+        "name": "Doorway Chest Stretch",
+        "muscle_group": "chest",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec"
+    },
+    {
+        "name": "Pike Push-up",
+        "muscle_group": "shoulders",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Dumbbell Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Bicep Curl",
+        "muscle_group": "arms",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Farmer's Carry",
+        "muscle_group": "full_body",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "duration": "30 sec"
+    },
+    {
+        "name": "Leg Raises",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Dumbbell Deadlift",
+        "muscle_group": "legs",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Towel Curl",
+        "muscle_group": "arms",
+        "equipment": "towel",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Ankle Circles",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 20
+    },
+    {
+        "name": "Wrist Rolls",
+        "muscle_group": "arms",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 20
+    },
+    {
+        "name": "Bear Crawl",
+        "muscle_group": "full_body",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 2,
+        "duration": "30 sec"
+    },
+    {
+        "name": "Resistance Band Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Resistance Band Bicep Curl",
+        "muscle_group": "arms",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Resistance Band Tricep Extension",
+        "muscle_group": "arms",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Dumbbell Lunges",
+        "muscle_group": "legs",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Russian Twist",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 20
+    },
+    {
+        "name": "Shoulder Rolls",
+        "muscle_group": "shoulders",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 10
+    },
+    {
+        "name": "Hip Circles",
+        "muscle_group": "hips",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 10
+    },
+    {
+        "name": "Tricep Stretch",
+        "muscle_group": "arms",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec each side"
+    },
+    {
+        "name": "Quadricep Stretch",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec each side"
+    },
+    {
+        "name": "Resistance Band Pull-Apart",
+        "muscle_group": "back",
+        "equipment": "resistance_band",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": 15
+    },
+    {
+        "name": "Dumbbell Romanian Deadlift",
+        "muscle_group": "back",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Dumbbell Squat to Press",
+        "muscle_group": "full_body",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Floor Press",
+        "muscle_group": "chest",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Bench Press",
+        "muscle_group": "chest",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Resistance Band Squat",
+        "muscle_group": "legs",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Lying Leg Raise",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Mountain Climbers",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": "30s"
+    },
+    {
+        "name": "Side Plank",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": "20s each side"
+    },
+    {
+        "name": "Dumbbell Lateral Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Front Raise",
+        "muscle_group": "shoulders",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Renegade Row",
+        "muscle_group": "back",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "advanced",
+        "sets": 3,
+        "reps": 10
+    },
+    {
+        "name": "Resistance Band Chest Fly",
+        "muscle_group": "chest",
+        "equipment": "resistance_band",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Superman",
+        "muscle_group": "back",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Cat-Cow Stretch",
+        "muscle_group": "back",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 1,
+        "reps": 10
+    },
+    {
+        "name": "Downward Dog",
+        "muscle_group": "full_body",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "45 sec"
+    },
+    {
+        "name": "Cobra Stretch",
+        "muscle_group": "back",
+        "equipment": "bodyweight",
+        "type": "cooldown",
+        "level": "beginner",
+        "duration": "30 sec"
+    },
+    {
+        "name": "Bird Dog",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": "10 each side"
+    },
+    {
+        "name": "Bench Dip",
+        "muscle_group": "arms",
+        "equipment": "bench",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Dumbbell Pullover",
+        "muscle_group": "chest",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "intermediate",
+        "sets": 3,
+        "reps": 12
+    },
+    {
+        "name": "Calf Raise",
+        "muscle_group": "legs",
+        "equipment": "bodyweight",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 20
+    },
+    {
+        "name": "Dumbbell Calf Raise",
+        "muscle_group": "legs",
+        "equipment": "dumbbells",
+        "type": "main",
+        "level": "beginner",
+        "sets": 3,
+        "reps": 15
+    },
+    {
+        "name": "Standing Side Bend",
+        "muscle_group": "core",
+        "equipment": "bodyweight",
+        "type": "warmup",
+        "level": "beginner",
+        "sets": 2,
+        "reps": "10 each side"
+    }
+]
