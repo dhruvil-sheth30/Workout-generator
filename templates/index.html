@@ -138,10 +138,37 @@
         </div>
     </div>
 
+    <div class="modal fade" id="startupDelayModal" tabindex="-1" aria-labelledby="startupDelayModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="startupDelayModalLabel">Notice: Server Warming Up</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>
+              The backend is hosted on Render's free tier. If the app has been inactive, it may take 30–40 seconds to start up. Please be patient after clicking <strong>Generate Workout Plan</strong>—your request will be processed as soon as the server is ready.
+            </p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS (required for modal) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
+            // Show Render startup delay modal on page load
+            const startupDelayModal = new bootstrap.Modal(document.getElementById('startupDelayModal'));
+            setTimeout(() => {
+                startupDelayModal.show();
+            }, 800); // Show after a short delay
+
             // API endpoints
-            const API_URL = 'http://localhost:8000';
+            const API_URL = `https://workout-generator-bw3x.onrender.com`;
             const GENERATE_ENDPOINT = `${API_URL}/generate-workout-plan`;
             const PDF_ENDPOINT = `${API_URL}/generate-workout-pdf`;
             const JSON_ENDPOINT = `${API_URL}/export-workout-json`;
