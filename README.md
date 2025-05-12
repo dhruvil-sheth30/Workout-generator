@@ -108,6 +108,9 @@ The Workout Plan Generator follows a simple MVC-like architecture:
 3. **API Layer**: RESTful endpoints for accessing functionality
 4. **Presentation Layer**: Simple Bootstrap-based UI
 
+## public test url
+https://workout-generator-bw3x.onrender.com/
+
 ## License
 
 MIT
